@@ -32,5 +32,6 @@ The data used in this project is a fictional sales dataset of a coffee shop. The
 
 **Encourage larger orders:** Offering combo deals and promotions for large-sized beverages can improve average sales per order.
 
+![Coffee Shop Sales Analysis](https://github.com/user-attachments/assets/d2ee027f-cc8f-42ad-9f42-83bf639cc4e2)
 
 
